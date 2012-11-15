@@ -1,4 +1,4 @@
-qter_code
-=========
+qt
+==
 
-qt creator help code
+qt practice
